@@ -146,11 +146,7 @@ const Header = () => {
         </a>
       </div>
       <ul className={active ? 'active' : ''}>
-        <li className="active">
-          <a href="">
-            عروض الافتتاح
-          </a>
-        </li>
+     
         <li>
           <a href="">
             الرئيسية
@@ -313,7 +309,7 @@ const Header = () => {
           <section className="bottom_icon">
             <div className="icons">
               <div className="col">
-                <i className="fa-solid fa-shop icon-home icon-shopping" />
+                <i className="icon-profile-male" />
                 <p>
                   Shop{' '}
                 </p>
@@ -339,6 +335,7 @@ const Header = () => {
             </div>
           </section>
     </div>
+    
   );
 };
 

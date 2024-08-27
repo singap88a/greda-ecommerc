@@ -71,6 +71,7 @@ const products = [
     oldPrice: "EGP 240",
     newPrice: "220 EGP",
   },
+  
   // يمكنك إضافة المزيد من المنتجات هنا بنفس الشكل
 ];
 
