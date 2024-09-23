@@ -16,7 +16,7 @@ const Header = () => {
               <div className="cols">
                 <div className="col">
                   <div className="text_img act">
-                    <i className="fa-solid fa-bars icon-paragraph-right  icon-menu" />
+                    <i className="fa-solid fa-bars icon-paragraph-right icon-menu" />
                     <a href="##"
                     style={{marginRight:"30px"}}>
                       تصنيفات المنتجات
@@ -105,9 +105,9 @@ const Header = () => {
 
             
             <div>
-  <div className="container top-nav">
+  <div   className="container top-nav">
     <div className="menus">
-    <i onClick={()=>setactivee(!active)} className="fa-solid fa-bars icon-paragraph-right  icon-menu" />
+    <i onClick={()=>setactivee(!active)} className="fa-solid fa-bars icon-paragraph-right icon-menu" />
     </div>
     <a
       className="logo"
@@ -126,11 +126,11 @@ const Header = () => {
         placeholder="Search"
         type="search"
       />
-      <i className="  icon-search" />
+      <i className=" icon-search" />
       </form>
     <div className="cart_header">
       <div className="icon_cart">
-      <i className="   icon-cart" />
+      <i className=" icon-cart" />
       <span className="count_item">
           {' '}0
         </span>
@@ -140,7 +140,7 @@ const Header = () => {
   <nav>
     <div className="links">
       <div className="loging">
-      <i className="fa-solid fa-bars icon-paragraph-right  icon-menu" />
+      <i className="fa-solid fa-bars icon-paragraph-right icon-menu" />
       <a href="">
           تصنيفات المنتجات
         </a>
@@ -327,7 +327,7 @@ const Header = () => {
                 </p>
               </div>
               <div className="col">
-                <i className=" icon-user " />
+                <i className=" icon-user" />
                 <p>
                   My account
                 </p>

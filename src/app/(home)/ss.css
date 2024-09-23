@@ -229,14 +229,14 @@ header .rigth .cols .col{
      position: relative;
     }
     .home_img .container .cols .col .img_cols .tow_col .imges .img{
-      background-image: url( /public/img/home_3.jpg);
+      background-image: url(https://madmonegypt.com/wp-content/uploads/2024/06/StockCake-Modern-Kitchen-Stove_1719674500.webp);
 
       background-size: cover;
       background-position: center;
     }
     
     .home_img .container .cols .col .img_cols .tow_col .img_2 .img{
-      background-image: url(/public/img/home_2.jpg);
+      background-image: url(https://madmonegypt.com/wp-content/uploads/2024/06/StockCake-Stocked-Modern-Refrigerator_1719674329.webp);
 
       background-position: center;
       background-size: cover;
